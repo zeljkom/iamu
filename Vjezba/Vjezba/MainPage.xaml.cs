@@ -165,6 +165,15 @@ namespace Vjezba {
             NavigationService.Navigate(new Uri("/Page1.xaml", UriKind.Relative));
         }
 
+        private void PhoneApplicationPage_BackKeyPress(object sender, System.ComponentModel.CancelEventArgs e) {
+            MessageBoxResult result = MessageBox.Show("Jeste li sigurni da želite izaći?", "Kraj aplikacije", MessageBoxButton.OKCancel);
+            if (result != MessageBoxResult.OK) {
+                e.Cancel = true;
+            }
+
+        }
+
+        
         
     }
 }
