@@ -150,7 +150,11 @@ namespace Vjezba {
         }
 
         protected override void OnBackKeyPress(System.ComponentModel.CancelEventArgs e) {
-
+            ShellToast toast = new ShellToast();
+            toast.Title = "Pozdrav";
+            toast.Content = "Sadržaj";
+            toast.Show();
+            Thread.Sleep(1000);
             MessageBoxResult result = MessageBox.Show("Želite li spremiti podatke?", "Pohrana?", MessageBoxButton.OKCancel);
             IsolatedStorageSettings settings = IsolatedStorageSettings.ApplicationSettings;
             if (result == MessageBoxResult.OK) {

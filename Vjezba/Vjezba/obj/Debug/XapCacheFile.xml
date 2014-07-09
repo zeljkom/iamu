@@ -1,7 +1,6 @@
-﻿<xapCache source="D:\DropBox\VSPR\IAMU\Vjezba\Vjezba\Bin\Debug\Vjezba_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="9.7.2014. 12:46:32">
-  <file source="D:\DropBox\VSPR\IAMU\Vjezba\Vjezba\obj\Debug\Vjezba.dll" archivePath="Vjezba.dll" lastWriteTime="9.7.2014. 12:46:32" />
+﻿<xapCache source="D:\DropBox\VSPR\IAMU\Vjezba\Vjezba\Bin\Debug\Vjezba_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="9.7.2014. 10:27:53">
+  <file source="D:\DropBox\VSPR\IAMU\Vjezba\Vjezba\obj\Debug\Vjezba.dll" archivePath="Vjezba.dll" lastWriteTime="9.7.2014. 10:27:53" />
   <file source="D:\DropBox\VSPR\IAMU\Vjezba\Vjezba\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="8.7.2014. 10:30:51" />
-  <file source="D:\DropBox\VSPR\IAMU\Vjezba\Vjezba\Assets\Calendar.png" archivePath="Assets\Calendar.png" lastWriteTime="9.7.2014. 12:22:22" />
   <file source="D:\DropBox\VSPR\IAMU\Vjezba\Vjezba\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="8.7.2014. 10:30:51" />
   <file source="D:\DropBox\VSPR\IAMU\Vjezba\Vjezba\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="8.7.2014. 10:30:51" />
   <file source="D:\DropBox\VSPR\IAMU\Vjezba\Vjezba\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="8.7.2014. 10:30:51" />
@@ -9,5 +8,5 @@
   <file source="D:\DropBox\VSPR\IAMU\Vjezba\Vjezba\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="9.7.2014. 2:02:41" />
   <file source="D:\DropBox\VSPR\IAMU\Vjezba\Vjezba\Bin\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="8.7.2014. 10:30:51" />
   <file source="D:\DropBox\VSPR\IAMU\Vjezba\Vjezba\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="8.7.2014. 10:30:51" />
-  <file source="D:\DropBox\VSPR\IAMU\Vjezba\Vjezba\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="9.7.2014. 12:44:15" />
+  <file source="D:\DropBox\VSPR\IAMU\Vjezba\Vjezba\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="9.7.2014. 2:02:41" />
 </xapCache>
