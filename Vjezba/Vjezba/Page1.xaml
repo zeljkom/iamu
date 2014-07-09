@@ -29,8 +29,11 @@
         <!--ContentPanel - place additional content here-->
         <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
             <TextBox x:Name="txtPrezime" HorizontalAlignment="Left" Height="72" Margin="0,10,0,0" TextWrapping="Wrap" Text="{Binding Prezime, Mode=TwoWay}" VerticalAlignment="Top" Width="456"/>
-            <Button x:Name="btnCreateTile" Content="Create Tile" HorizontalAlignment="Left" Margin="34,114,0,0" VerticalAlignment="Top" Click="btnCreateTile_Click"/>
-            <Button x:Name="btnUpdateTile" Content="Update Tile" HorizontalAlignment="Left" Margin="251,114,0,0" VerticalAlignment="Top" Click="btnUpdateTile_Click"/>
+            <Button x:Name="btnCreateTile" Content="Create Tile" HorizontalAlignment="Left" Margin="10,87,0,0" VerticalAlignment="Top" Click="btnCreateTile_Click"/>
+            <Button x:Name="btnUpdateTile" Content="Update Tile" HorizontalAlignment="Left" Margin="154,87,0,0" VerticalAlignment="Top" Click="btnUpdateTile_Click"/>
+            <Button x:Name="btnUpdateTileScheduler" Content="Update Tile Schedule" HorizontalAlignment="Left" Margin="10,159,0,0" VerticalAlignment="Top" Click="btnUpdateTileScheduler_Click" Width="302"/>
+            <Button x:Name="bTNLock" Content="Lock" HorizontalAlignment="Left" Margin="317,87,0,0" VerticalAlignment="Top" Click="bTNLock_Click"/>
+            <Button x:Name="btnBackground" Content="Background" HorizontalAlignment="Left" Margin="19,231,0,0" VerticalAlignment="Top" Width="176" Click="btnBackground_Click"/>
 
         </Grid>
     </Grid>
